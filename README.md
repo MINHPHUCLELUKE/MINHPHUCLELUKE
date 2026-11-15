@@ -20,7 +20,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 
 | Project | Methods | Tools |
 |---|---|---|
-| [Term Deposit Subscription Prediction](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/term-deposit-prediction)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/term-deposit-prediction/term-deposit-notebook.html) | Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Neural Network; 5-fold CV | Python |
+| [Term Deposit Subscription Prediction](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/term-deposit-prediction)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/term-deposit-prediction/term-deposit-revised.html) | Leak-free rebuild (call duration removed): 7 models in scikit-learn pipelines, CV-tuned on AUC; top 20% of scored customers reaches 36% of subscribers | Python |
 | [Solar Radiation Forecasting & Property Prices](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/solar-radiation-spurious-correlation) | 8-model comparison, Holt-Winters, prewhitening and CCF to expose a spurious correlation | R |
 | [Global CO₂: Analysis & Forecasting](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/global-co2-forecasting) | ARIMA, SARIMA, GARCH, DF-GLS; best: SARIMA(1,2,2)(0,1,1)[12] | R |
 | [Climate-Responsive Time Series Forecasting](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/climate-responsive-forecasting) | DLM, ARDL, Koyck, dynlm, ETS, drought intervention analysis | R |
