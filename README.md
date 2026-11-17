@@ -10,9 +10,9 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [The Look Co.: E-commerce Analytics](https://github.com/MINHPHUCLELUKE/thelook-ecommerce-sql-powerbi) | T-SQL clean layer and star schema, 74 DAX measures, cohort retention, RFM, funnel, inventory aging; 40+ figures reconciled between Power BI and SQL | SQL Server, Power BI |
-| [Crustline: Pizza Sales Analysis](https://github.com/MINHPHUCLELUKE/crustline-pizza-sales-powerbi) | Power Query cleaning of a raw CSV, star schema with a many-to-many ingredient bridge, 37 DAX measures, anomaly detection; 23 QA checks against the raw data | Power BI |
-| [CSIRO Data61: Automated Sector Productivity Reports](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/csiro-data61-sector-productivity) | Automated, parameterised R Markdown reports for 34 sectors; productivity decomposition, quantile regression, 34 threshold classifiers | R |
+| [The Look Co.: E-commerce Analytics](https://github.com/MINHPHUCLELUKE/thelook-ecommerce-sql-powerbi) | T-SQL clean layer and star schema, 74 DAX measures, cohort retention, customer segmentation, funnel, inventory aging; 40+ figures reconciled between Power BI and SQL | SQL Server, Power BI |
+| [Crustline: Pizza Sales Analysis](https://github.com/MINHPHUCLELUKE/crustline-pizza-sales-powerbi) | Power Query cleaning of a raw CSV, star schema with a many-to-many ingredient bridge, 37 DAX measures, anomaly detection; headline figures recomputed from the raw CSV (33 checks) plus 22 model consistency checks | Power BI |
+| [CSIRO Data61: Automated Sector Productivity Reports](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/csiro-data61-sector-productivity) | Automated, parameterised R Markdown reports for 34 sectors; five-driver productivity decomposition, quantile regression, rule-based written commentary | R |
 
 ---
 
@@ -21,7 +21,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 | Project | Methods | Tools |
 |---|---|---|
 | [Term Deposit Subscription Prediction](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/term-deposit-prediction)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/term-deposit-prediction/term-deposit-notebook.html) | Pre-call targeting model (call duration excluded): 7 models in scikit-learn pipelines, CV-tuned on AUC; top 20% of scored customers reaches 36% of subscribers | Python |
-| [Global CO₂ Concentration Time Series Analysis and Forecasting](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/tree/main/co2)<br>[📄 Read report](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/blob/main/co2/global-co2-time-series-analysis.pdf) | 8 SARIMA candidates; selected SARIMA(1,2,2)(0,1,1)[12]; 10-month forecast of 430 ppm, confirmed by NOAA | R |
+| [Global CO₂ Concentration Time Series Analysis and Forecasting](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/tree/main/co2)<br>[📄 Read report](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/blob/main/co2/global-co2-time-series-analysis.pdf) | 8 SARIMA candidates; selected SARIMA(1,2,2)(0,1,1)[12]; 10-month forecast; its first month (430.4 ppm) matched NOAA's May 2025 reading of 430.5 ppm, and a follow-up checks it against 17 months of later readings | R |
 | [Bitcoin Index Time Series Analysis](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/tree/main/bitcoin)<br>[📄 Read report](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/blob/main/bitcoin/bitcoin-index-time-series-analysis.pdf) | Box-Cox, stationarity tests, EACF and BIC table; ARIMA(1,1,0) selected by AIC and BIC | R |
 | [A Cautionary Tale: The $TRUMP Token Case Study](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/storytelling-with-open-data)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/storytelling-with-open-data/trump-token-dashboard.html) | Interactive flexdashboard data story on meme coin risk: volatility, ownership concentration, comparison with Bitcoin and Solana | R, plotly |
 
