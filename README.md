@@ -21,9 +21,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 | Project | Methods | Tools |
 |---|---|---|
 | [Term Deposit Subscription Prediction](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/term-deposit-prediction)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/term-deposit-prediction/term-deposit-notebook.html) | Pre-call targeting model (call duration excluded): 7 models in scikit-learn pipelines, CV-tuned on AUC; top 20% of scored customers reaches 36% of subscribers | Python |
-| [Solar Radiation Forecasting & Property Prices](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/solar-radiation-spurious-correlation) | 8-model comparison, Holt-Winters, prewhitening and CCF to expose a spurious correlation | R |
 | [Global CO₂: Analysis & Forecasting](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/global-co2-forecasting) | ARIMA, SARIMA, GARCH, DF-GLS; best: SARIMA(1,2,2)(0,1,1)[12] | R |
-| [Climate-Responsive Time Series Forecasting](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/climate-responsive-forecasting) | DLM, ARDL, Koyck, dynlm, ETS, drought intervention analysis | R |
 | [Bitcoin Index Time Series Analysis](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/bitcoin-index-arima) | Box–Cox, ADF/KPSS/PP, EACF, BIC table, ARIMA(1,1,0) | R |
 | [Storytelling with Open Data](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/storytelling-with-open-data) | Narrative analytics for a non-technical audience | R Markdown |
 
@@ -43,7 +41,7 @@ All coursework projects are indexed in [Analytics-Portfolio](https://github.com/
 ## Skills
 
 - **BI and data modelling:** T-SQL, star schemas, data quality checks and reconciliation, Power Query (M), DAX, Power BI report design
-- **Statistics and forecasting:** ARIMA/SARIMA/GARCH, ETS and Holt-Winters, distributed lag models, quantile regression, hypothesis testing, spurious correlation checks
+- **Statistics and forecasting:** ARIMA/SARIMA/GARCH, STL decomposition, stationarity testing, quantile regression, hypothesis testing
 - **Machine learning:** classification models, feature selection, cross-validation, model comparison
 - **Reporting:** automated parameterised R Markdown, ggplot2, written findings for non-technical readers
 
