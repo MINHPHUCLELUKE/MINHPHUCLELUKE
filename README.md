@@ -23,7 +23,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 | [Term Deposit Subscription Prediction](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/term-deposit-prediction)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/term-deposit-prediction/term-deposit-notebook.html) | Pre-call targeting model (call duration excluded): 7 models in scikit-learn pipelines, CV-tuned on AUC; top 20% of scored customers reaches 36% of subscribers | Python |
 | [Global CO₂ Concentration Time Series Analysis and Forecasting](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/tree/main/co2)<br>[📄 Read report](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/blob/main/co2/global-co2-time-series-analysis.pdf) | 8 SARIMA candidates; selected SARIMA(1,2,2)(0,1,1)[12]; 10-month forecast of 430 ppm, confirmed by NOAA | R |
 | [Bitcoin Index Time Series Analysis](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/tree/main/bitcoin)<br>[📄 Read report](https://github.com/MINHPHUCLELUKE/time-series-forecasting-r/blob/main/bitcoin/bitcoin-index-time-series-analysis.pdf) | Box-Cox, stationarity tests, EACF and BIC table; ARIMA(1,1,0) selected by AIC and BIC | R |
-| [Storytelling with Open Data](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/storytelling-with-open-data) | Narrative analytics for a non-technical audience | R Markdown |
+| [A Cautionary Tale: The $TRUMP Token Case Study](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/storytelling-with-open-data)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/storytelling-with-open-data/trump-token-dashboard.html) | Interactive flexdashboard data story on meme coin risk: volatility, ownership concentration, comparison with Bitcoin and Solana | R, plotly |
 
 ---
 
@@ -32,7 +32,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 | Project | What it shows | Tools |
 |---|---|---|
 | [MedConnect AI: Healthcare Referral Prototype](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/medconnect-ai-referral-prototype)<br>[▶ View live](https://minhphucleluke.github.io/Analytics-Portfolio/medconnect-ai-referral-prototype/medconnectai.html) | Clickable GP portal prototype (illustrative mock data) covering the full referral lifecycle | HTML/JS |
-| [Software & System Deconstruction using UML](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/uml-booking-system-analysis) | Activity, use case, class and state machine diagrams; gap analysis with a business case | UML |
+| [Software & System Deconstruction using UML](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/uml-booking-system-analysis) | Activity, use case, class and state machine diagrams; gap analysis and business case for payment authorisation | UML |
 
 All coursework projects are indexed in [Analytics-Portfolio](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio).
 
