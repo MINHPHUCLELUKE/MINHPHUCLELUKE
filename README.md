@@ -11,7 +11,7 @@ Data analyst who turns raw data into decisions with **SQL and Power BI**, backed
 | Project | What it shows | Tools |
 |---|---|---|
 | [The Look Co.: E-commerce Analytics](https://github.com/MINHPHUCLELUKE/thelook-ecommerce-sql-powerbi) | T-SQL clean layer and star schema, 74 DAX measures, cohort retention, customer segmentation, funnel, inventory aging; 40+ figures reconciled between Power BI and SQL | SQL Server, Power BI |
-| [Crustline: Pizza Sales Analysis](https://github.com/MINHPHUCLELUKE/crustline-pizza-sales-powerbi) | Power Query cleaning of a raw CSV, star schema with a many-to-many ingredient bridge, 37 DAX measures, anomaly detection; headline figures recomputed from the raw CSV (33 checks) plus 22 model consistency checks | Power BI |
+| [Crustline: Pizza Sales Analysis](https://github.com/MINHPHUCLELUKE/crustline-pizza-sales-powerbi) | Power Query cleaning of a raw CSV, star schema with a snowflaked date table and a many-to-many ingredient bridge, 37 DAX measures, anomaly detection; headline figures recomputed from the raw CSV (33 checks) plus 22 model consistency checks | Power BI |
 | [CSIRO Data61: Automated Sector Productivity Reports](https://github.com/MINHPHUCLELUKE/Analytics-Portfolio/tree/main/csiro-data61-sector-productivity) | Automated, parameterised R Markdown reports for 34 sectors; five-driver productivity decomposition, quantile regression, rule-based written commentary | R |
 
 ---
